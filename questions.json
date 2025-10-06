@@ -1,0 +1,231 @@
+{
+  "heading": "Venn diagram",
+  "topics": [
+    {
+      "heading": "Venn diagram",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What is the best way to show the relationship between lawyer, criminal, thief?",
+          "options": [
+            { "image": "./assests/images/option/1.png" },
+            { "image": "./assests/images/option/2.png" },
+            { "image": "./assests/images/option/3.png" },
+            { "image": "./assests/images/option/4.png" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 2,
+          "question": "Which diagram best represents the relationship between mother, aunts, and doctors?",
+          "options": [
+            { "image": "./assests/images/option/5.png" },
+            { "image": "./assests/images/option/6.png" },
+            { "image": "./assests/images/option/7.png" },
+            { "image": "./assests/images/option/8.png" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 3,
+          "question": "Which diagram best represents the relationship between farmers, literates, and astronauts?",
+          "options": [
+            { "image": "./assests/images/option/9.png" },
+            { "image": "./assests/images/option/10.png" },
+            { "image": "./assests/images/option/11.png" },
+            { "image": "./assests/images/option/12.png" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 4,
+          "question": "What is the best way to show the relationship between football, athlete, and sport?",
+          "options": [
+            { "image": "./assests/images/option/13.png" },
+            { "image": "./assests/images/option/14.png" },
+            { "image": "./assests/images/option/15.png" },
+            { "image": "./assests/images/option/16.png" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 5,
+          "question": "What is the best way to show the relationship between human beings, teachers, and players?",
+          "options": [
+            { "image": "./assests/images/option/17.png" },
+            { "image": "./assests/images/option/18.png" },
+            { "image": "./assests/images/option/19.png" },
+            { "image": "./assests/images/option/20.png" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 6,
+          "question": "What is the best way to show the relationship between painter, lawyer and singer?",
+          "options": [
+            { "image": "./assests/images/option/21.png" },
+            { "image": "./assests/images/option/22.png" },
+            { "image": "./assests/images/option/23.png" },
+            { "image": "./assests/images/option/24.png" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 7,
+          "question": "<div style='display:flex'><div style='width:50%'>Observe the given Venn diagram carefully. Which of these numbers appear in only three shapes? Which of these numbers appear only once in any of the shapes?</div><div style='width:50%'><img width='80%' src='./assests/images/question/1.png'></div ></div>",
+          "options": [
+            { "text": "8,12" },
+            { "text": "7,8" },
+            { "text": "10,12" },
+            { "text": "8,10" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 8,
+          "question": "<div style='display:flex'><div style='width:50%'>Which number is present in all the shapes?</div><div style='width:50%'><img width='80%' src='./assests/images/question/2.png'></div ></div>",
+          "options": [
+            { "text": "3" },
+            { "text": "6" },
+            { "text": "8" },
+            { "text": "10" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 9,
+          "question": "<div style='display:flex'><div style='width:50%'>A class has different student groups: Circle represents football players, Triangle represents students, Rectangle represents boys, Square represents singers. How many male students are singers and football players?</div><div style='width:50%'><img width='80%' src='./assests/images/question/3.png'></div ></div>",
+          "options": [
+            { "text": "0" },
+            { "text": "1" },
+            { "text": "6" },
+            { "text": "8" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 10,
+          "question": "What is the best way to show the relationship between vegetables, carrots, and spinach?",
+          "options": [
+            { "image": "./assests/images/option/25.png" },
+            { "image": "./assests/images/option/26.png" },
+            { "image": "./assests/images/option/27.png" },
+            { "image": "./assests/images/option/28.png" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 11,
+          "question": "<div style='display:flex'><div style='width:50%'>Which numbers are present in only 2 geometric shapes?</div><div style='width:50%'><img width='80%' src='./assests/images/question/4.png'></div ></div>",
+          "options": [
+            { "text": "2,3,5,8" },
+            { "text": "2,3,6,7" },
+            { "text": "4,6,8,9" },
+            { "text": "2,5,8,9" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 12,
+          "question": "Which Venn diagram best represents the relationship between women, singer, and cricketer?",
+          "options": [
+            { "image": "./assests/images/option/29.png" },
+            { "image": "./assests/images/option/30.png" },
+            { "image": "./assests/images/option/31.png" },
+            { "image": "./assests/images/option/32.png" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 13,
+          "question": "Which diagram best represents the relationship between Oceans, Rivers, and Water?",
+          "options": [
+            { "image": "./assests/images/option/33.png" },
+            { "image": "./assests/images/option/34.png" },
+            { "image": "./assests/images/option/35.png" },
+            { "image": "./assests/images/option/36.png" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 14,
+          "question": "<div style='display:flex'><div style='width:50%'>In the given Venn diagram, you have Copper, Bottles, and Caps. Which letter represents bottles without caps?</div><div style='width:50%'><img width='80%' src='./assests/images/question/5.png'></div ></div>",
+          "options": [
+            { "text": "A+B" },
+            { "text": "A" },
+            { "text": "B" },
+            { "text": "A+B+C" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 15,
+          "question": "Which diagram best represents the relationship between Vehicles, Cars, and Bicycles?",
+          "options": [
+            { "image": "./assests/images/option/37.png" },
+            { "image": "./assests/images/option/38.png" },
+            { "image": "./assests/images/option/39.png" },
+            { "image": "./assests/images/option/40.png" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 16,
+          "question": "<div style='display:flex'><div style='width:50%'>Which section of the diagram represents students who are both players and artists but not scientists?</div><div style='width:50%'><img width='80%' src='./assests/images/question/6.png'></div ></div>",
+          "options": [
+            { "text": "F + C" },
+            { "text": "E" },
+            { "text": "E + G" },
+            { "text": "F + G" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 17,
+          "question": "<div style='display:flex'><div style='width:50%'>In the given figure, Circle represents females, Triangle represents honest people, Rectangle represents rich people. Which part of the diagram represents people who are both rich and honest?</div><div style='width:50%'><img width='80%' src='./assests/images/question/7.png'></div ></div>",
+          "options": [
+            { "text": "C" },
+            { "text": "E" },
+            { "text": "B" },
+            { "text": "D" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 18,
+          "question": "<div style='display:flex'><div style='width:50%'>A survey was conducted among school children, and the results are displayed in the Venn diagram below. Which region represents School Children who play only 1 sport?</div><div style='width:50%'><img width='80%' src='./assests/images/question/8.png'></div ></div>",
+          "options": [
+            { "text": "A" },
+            { "text": "E+F" },
+            { "text": "C" },
+            { "text": "C+F" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 19,
+          "question": "<div style='display:flex'><div style='width:50%'>A group of students was surveyed based on their Athletic Ability, Discipline, and Gender (Boys and Girls). How many disciplined students are there?</div><div style='width:50%'><img width='70%' src='./assests/images/question/9.png'></div ></div>",
+          "options": [
+            { "text": "1" },
+            { "text": "18" },
+            { "text": "7" },
+            { "text": "20" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 20,
+          "question": "<div style='display:flex'><div style='width:50%'>Which numbers are present in only 2 shapes?</div><div style='width:50%'><img width='80%' src='./assests/images/question/10.png'></div ></div>",
+          "options": [
+            { "text": "1,4,7,9" },
+            { "text": "1,4,5,8" },
+            { "text": "1,4,7,8" },
+            { "text": "1,7,8,9" }
+          ],
+          "answer": 2
+        }
+      ]
+      
+    }
+  ]
+}
