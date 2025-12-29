@@ -57,7 +57,7 @@
             { "image": "./assests/images/option/19.png" },
             { "image": "./assests/images/option/20.png" }
           ],
-          "answer": 2
+          "answer": 0
         },
         {
           "questionNo": 6,
@@ -142,7 +142,7 @@
           "options": [
             { "image": "./assests/images/option/33.png" },
             { "image": "./assests/images/option/34.png" },
-            { "image": "./assests/images/option/35.png" },
+            { "image": "./assests/images/option/3.png" },
             { "image": "./assests/images/option/36.png" }
           ],
           "answer": 2
@@ -229,3 +229,4 @@
     }
   ]
 }
+
